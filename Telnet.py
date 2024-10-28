@@ -16,3 +16,4 @@ def parse_output(input):
     return output
 #Display output of other functions
 print(parse_output(collect_output()))
+
